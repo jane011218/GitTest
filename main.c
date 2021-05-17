@@ -1,5 +1,9 @@
 // Make conflict
  #include <stdio.h>
+=======
+// testbranch
+#include <stdio.h>
+>>>>>>> testbranch
 #include "myheader.h"
 
 int main(void) {
